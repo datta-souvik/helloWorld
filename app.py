@@ -1,3 +1,2 @@
 print("helloWorld")
-print("Good")
-print("Great")
+input("hi")
